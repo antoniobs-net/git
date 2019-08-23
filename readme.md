@@ -45,3 +45,18 @@ This command is used to obtain/clone a repository from an existing URL into a ne
 Example:
 
 `git clone https://github.com/antoniobs-net/git.git`
+
+
+
+# git status
+
+Usage: 
+
+`git status`  
+
+This command  show the working tree status, lists all the files that have to be committed.
+
+Example:
+
+`git status` 
+
